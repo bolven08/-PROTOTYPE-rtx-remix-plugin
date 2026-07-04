@@ -63,7 +63,7 @@ Matrices are validated for NaN/Inf before being passed to Remix. Drawcalls with 
 
 ## Installation
 
-1. Install [RTX Remix](https://github.com/NVIDIAGameWorks/rtx-remix) into the game folder. It is recommended to use [RTX Remix](https://github.com/RemixProjGroup/dxvk-remix/)
+1. Install [RTX Remix](https://github.com/NVIDIAGameWorks/rtx-remix) into the game folder. It is recommended to use [Remix Plus](https://github.com/RemixProjGroup/dxvk-remix/)
 2. Download archive `[PROTOTYPE] RTX Remix Compatibility Plugin` from [Releases](../../releases)
 3. In the archive from the `files` folder, drag the files to the game folder next to `prototypef.exe`
 
