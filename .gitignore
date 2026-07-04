@@ -1,5 +1,6 @@
 out/
 .vs/
+deps/
 CMakeSettings.json
 *.log
 *.dll
