@@ -64,9 +64,8 @@ Matrices are validated for NaN/Inf before being passed to Remix. Drawcalls with 
 ## Installation
 
 1. Install [RTX Remix](https://github.com/NVIDIAGameWorks/rtx-remix) into the game folder
-2. Download the compiled `prototype_rtx.asi` from [Releases](../../releases)
-3. Place it in the game root folder next to `prototypef.exe`
-4. Make sure [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) (`binkw32.dll`) is present — it loads the `.asi` file automatically
+2. Download archive `[PROTOTYPE] RTX Remix Compatibility Plugin` from [Releases](../../releases)
+3. In the archive from the `files` folder, drag the files to the game folder next to `prototypef.exe`
 
 ---
 
