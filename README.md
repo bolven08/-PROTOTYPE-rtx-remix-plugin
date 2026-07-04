@@ -68,6 +68,8 @@ Matrices are validated for NaN/Inf before being passed to Remix. Drawcalls with 
 3. Copy the contents of the Save folder to your game's save directory: `%USERPROFILE%\Documents\Prototype`
 4. Copy the contents of the Files folder to your game's root directory where `prototypef.exe` is located.
 
+The mod uses [Remix Plus by Kim2091](https://github.com/RemixProjGroup/dxvk-remix/)
+
 ---
 
 ## Building from Source
@@ -103,3 +105,20 @@ The plugin is written in C++ using MinHook for D3D9 vtable hooking. Pull request
 - Correct per-object World matrix extraction from WVP shader constants
 - Improved shadow map detection
 - Skeletal animation support
+
+---
+
+## Special Thanks
+
+A huge thank you to **hopelessness** for providing the stunning PBR materials used in this [PROTOTYPE] project.
+
+- **Author:** hopelessness
+- **Community:** [Discord Server](https://discord.com/invite/XXNBqBSkNv)
+
+---
+
+## Find Me
+
+I'm active on the **RTX Remix** Discord server:
+
+- [RTX Remix Discord](https://discord.com/invite/c7J6gUhXMk)
