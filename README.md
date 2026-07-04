@@ -64,7 +64,8 @@ Matrices are validated for NaN/Inf before being passed to Remix. Drawcalls with 
 ## Installation
 
 1. Download archive `[PROTOTYPE] RTX Remix Compatibility` from [Releases](../../releases)
-2. In the archive from the `files` folder, drag the files to the game folder next to `prototypef.exe`
+2. In the `save` folder, drag and drop the files to the following path: `C:\Users\Your username\Documents\Prototype`
+3. In the archive from the `files` folder, drag the files to the game folder next to `prototypef.exe`
 
 ---
 
