@@ -1,6 +1,6 @@
 # Prototype (2009) — RTX Remix Compatibility Plugin
 
-> **Note:** The C++ code for this plugin was written using AI (Gemini). Reverse engineering of the original game engine, log analysis, testing, and assembly were performed by the author of the repository.
+> **Note:** All C++ code, reverse-engineering logic of the graphics pipeline, and technical engine analysis were completely developed using AI (Gemini). Project integration, building, environment setup, and in-game testing were performed by the repository author.
 
 A custom D3D9 compatibility plugin for **Prototype (2009)** that enables full RTX Remix ray tracing support. The game uses the proprietary **Titanium Engine** with non-standard rendering techniques that break Remix's geometry capture and lighting — this plugin intercepts and fixes all of them at runtime.
 
