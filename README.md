@@ -70,22 +70,6 @@ Matrices are validated for NaN/Inf before being passed to Remix. Drawcalls with 
 
 ---
 
-## Recommended RTX Remix Settings (Alt+X)
-
-**Frustum Culling (disappearing buildings):**
-Prototype culls buildings outside the player's view frustum, which breaks reflections and indirect lighting. Enable `Anti-Culling` in Remix settings, or add hashes of disappearing objects to the *Anti-Culling Textures* list.
-
-**White texture on cars and abilities:**
-The game uses a technical placeholder texture with hash `2164293A60D148AC`. Open the **Textures** tab in the Remix overlay, find this hash, and enable **Ignore**. Affected objects will display correctly.
-
-**Frame Generation:**
-Disable DLSS Frame Generation — it causes camera jitter due to the VP decomposition method used for camera capture.
-
-**Fused World-View Mode:**
-Set to `In View Transform` in the Remix camera settings for stable geometry.
-
----
-
 ## Building from Source
 
 **Requirements:**
