@@ -70,6 +70,7 @@ Matrices are validated for NaN/Inf before being passed to Remix. Drawcalls with 
 
 The mod uses [Remix Plus by Kim2091](https://github.com/RemixProjGroup/dxvk-remix/)
 
+⚠️ **Note:** This is still a test version of the compatibility plugin. Many bugs are present.
 ---
 
 ## Building from Source
