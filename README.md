@@ -117,3 +117,6 @@ The plugin is written in C++ using MinHook for D3D9 vtable hooking. Pull request
 - Correct per-object World matrix extraction from WVP shader constants
 - Improved shadow map detection
 - Skeletal animation support
+
+
+> **Note:** The C++ code for this plugin was written using AI (Gemini). Reverse engineering of the original game engine, log analysis, testing, and assembly were performed by the author of the repository.
